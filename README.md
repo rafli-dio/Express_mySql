@@ -3,8 +3,8 @@
 Teknologi yang digunakan
 
 1. Mysql
-2.Node js
-3.Express js
+2. Node js
+3. Express js
 
 
 Bagaiamana cara menggunakanya
